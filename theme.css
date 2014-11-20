@@ -16,7 +16,7 @@ body {
 
 .header-name {
 	color: white;
-	font-size: 85px;
+	font-size: 65px;
 	text-align: center; 
 	font-family: 'Poiret One', cursive;
 
@@ -24,7 +24,7 @@ body {
 
 .header-sub {
 	color: white;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: center;
 	font-family: 'Quicksand', sans-serif;
 }
@@ -42,7 +42,7 @@ body {
 
 .white {
 	color: #fff;
-	font-size: 75px;
+	font-size: 70px;
 }
 
 .page {
@@ -75,24 +75,28 @@ body {
 .page-header {
 	text-align: center;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 45px;
+	font-size: 35px;
 	border: none;
 }
 
 .profile-pic-container {
-	text-align: center;
+	padding-right: 10%;
+	padding-left: 10%;
+	float: right;
 }
 
 .profile-pic {
 	border-radius: 25px;
 	/*border: 5px solid LightPink;*/
-	width: 500px;
+	width: 400px;
 	height: auto;
 }
 
 .profile-descr {
+	padding-left: 10%;
+	padding-right: 10%;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: 300;
 }
 
@@ -101,27 +105,29 @@ body {
 }
 
 .logo {
-	height: 150px;
-	margin-bottom: 20px;
+	height: 125px;
+	margin-bottom: 15px;
 /*	border: 1px solid black;
 */}
 
 .company-name {
 	font-family: 'Source Sans Pro', sans-serif;
 	/*font-weight: bold;*/
-	font-size: 30px;
+	font-size: 25px;
 }
 
 .company-date {
 	font-family: 'Alegreya Sans', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: 100;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 
 .company-descr {
+	padding-left: 5%;
+	padding-right: 5%;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: 300;
 }
 
@@ -129,19 +135,19 @@ body {
 	padding-left: 20%;
 	font-family: 'Quicksand', sans-serif;
 	font-weight: 300;
-	font-size: 30px;
+	font-size: 20px;
 	/*text-align: center;*/
 }
 
 .project {
 	text-align: center;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 }
 
 .blurb {
 	text-align: center;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 }
 
