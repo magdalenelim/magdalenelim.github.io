@@ -57,7 +57,7 @@ body {
 }
 
 .experiences {
-	background-color: #ffcccc;
+	background-color: #FFE4E1;
 }
 
 .skills {
@@ -98,4 +98,29 @@ body {
 
 .exp {
 	text-align: center;
+}
+
+.logo {
+	height: 200px;
+	margin-bottom: 20px;
+/*	border: 1px solid black;
+*/}
+
+.company-name {
+	font-family: 'Source Sans Pro', sans-serif;
+	/*font-weight: bold;*/
+	font-size: 35px;
+}
+
+.company-date {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 25px;
+	font-weight: 100;
+	margin-bottom: 10px;
+}
+
+.company-descr {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 25px;
+	font-weight: 300;
 }
