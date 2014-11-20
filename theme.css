@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-	padding-top: 70px;
+	padding-top: 100px;
 	/*position: relative;*/
 	position: relative;
 	height: 100%;
@@ -65,7 +65,7 @@ body {
 }
 
 .projects {
-	background-color: White;
+	background-color: #FFE4E1;
 }
 
 .contact {
@@ -86,7 +86,7 @@ body {
 .profile-pic {
 	border-radius: 25px;
 	/*border: 5px solid LightPink;*/
-	width: 400px;
+	width: 500px;
 	height: auto;
 }
 
@@ -101,7 +101,7 @@ body {
 }
 
 .logo {
-	height: 200px;
+	height: 150px;
 	margin-bottom: 20px;
 /*	border: 1px solid black;
 */}
@@ -109,7 +109,7 @@ body {
 .company-name {
 	font-family: 'Source Sans Pro', sans-serif;
 	/*font-weight: bold;*/
-	font-size: 35px;
+	font-size: 30px;
 }
 
 .company-date {
@@ -124,3 +124,24 @@ body {
 	font-size: 25px;
 	font-weight: 300;
 }
+
+.skill-col {
+	padding-left: 20%;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+	/*text-align: center;*/
+}
+
+.project {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 39px;
+}
+
+.blurb {
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 30px;
+}
+
