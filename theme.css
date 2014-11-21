@@ -75,9 +75,13 @@ body {
 
 .page-header {
 	text-align: center;
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 35px;
+	font-family: 'Alegreya Sans', sans-serif;
+	/*font-family: 'Poiret One', cursive;*/
+	font-size: 45px;
+	font-weight: 300;
+	/*font-weight: bold;*/
 	border: none;
+	color: #660000;
 }
 
 .profile-pic-container {
