@@ -44,6 +44,12 @@ body {
 	font-size: 70px;
 }
 
+.white:hover {
+	transition-delay: .1s; /* delays for 1 second */
+	-webkit-transition-delay: .1s; /* for Safari & Chrome */
+	color: #34495e;
+}
+
 .page {
 	width: 100%;
 	position: relative;
