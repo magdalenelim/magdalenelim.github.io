@@ -17,7 +17,7 @@ body {
 
 .header-name {
 	color: white;
-	font-size: 65px;
+	font-size: 75px;
 	text-align: center; 
 	font-family: 'Poiret One', cursive;
 
@@ -25,9 +25,9 @@ body {
 
 .header-sub {
 	color: white;
-	font-size: 20px;
+	font-size: 27px;
 	text-align: center;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 .downbutton {
